@@ -69,3 +69,15 @@ The ArgoCD application deploys the Go web application to a Kubernetes cluster an
 ## Conclusion
 
 This project showcases the complete end-to-end process of implementing DevOps practices, from containerization to continuous deployment using GitOps with AWS EKS and ArgoCD. It demonstrates the efficiency and reliability of modern DevOps tools and practices in managing and deploying applications.
+
+##images
+
+![Screenshot from 2024-07-31 00-10-26](https://github.com/user-attachments/assets/c9f4bd73-129e-410d-8815-43b02ae1ccf8)
+![Screenshot from 2024-07-31 00-07-02](https://github.com/user-attachments/assets/50e77219-7c98-4ffe-bc25-8d7d90ffd10e)
+![Screenshot from 2024-07-31 00-07-13](https://github.com/user-attachments/assets/514b0b35-011c-44fc-b6f6-ba3679cf013f)
+![Screenshot from 2024-07-31 00-07-30](https://github.com/user-attachments/assets/4a03f2b2-293d-4053-80c5-a0bfe420c195)
+![Screenshot from 2024-07-31 00-07-54](https://github.com/user-attachments/assets/e2c66aae-3b93-4d0c-9632-bbe08331465d)
+![Screenshot from 2024-07-31 00-08-27](https://github.com/user-attachments/assets/bfb17e64-527c-4a96-9196-d38defe53598)
+
+
+
