@@ -1,0 +1,16 @@
+# Service for the application
+apiVersion: v1
+kind: Service
+metadata:
+  name: golang-application
+  labels:
+    app: golang-application
+spec:
+  ports:
+  - port: 80
+    targetPort: 8080
+    nodePort: 30001
+    protocol: TCP
+  selector:
+    app: golang-application
+  type: NodePort
